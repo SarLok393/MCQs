@@ -546,7 +546,7 @@ Ans: b) SRS
     c. Requirements Gathering
     d. All of the mentioned
 
-Ans: a. Identifying Stakeholder
+Ans: c. Requirements Gathering
 
 
 >Q5. Arrange the tasks involved in requirements elicitation in an appropriate manner.
